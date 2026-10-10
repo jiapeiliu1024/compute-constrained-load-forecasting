@@ -1,0 +1,3 @@
+# Additional timing sensitivity
+
+After inspecting the frozen training-only timing profile and while the primary run was underway, the batch-derived new credit was 2 whereas the single-origin ratio implies ceil(18 * 0.7039 / 1.5001) = 9. This timing distinction materially affects deployment interpretation. Therefore run the SAME 20 units and two policies with MLP credit 9; keep all other settings unchanged and report both treatments, without selecting the better one. This is an explicitly post-hoc sensitivity analysis motivated by measured call granularity, not a replacement of the primary cost rule.

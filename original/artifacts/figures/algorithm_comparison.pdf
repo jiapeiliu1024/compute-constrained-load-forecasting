@@ -1,0 +1,856 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 650] /Resources << /Font << /Helvetica 4 0 R /Helvetica-Bold 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 26470 >>
+stream
+BT /Helvetica-Bold 25 Tf 42 612 Td (Algorithm Comparison Across Horizons and Budgets) Tj ET
+0.28 0.28 0.28 rg
+BT /Helvetica 15 Tf 42 595 Td (Cells show mean MAE gain \(%\) relative to the tune-selected feasible static forecaster; five chronological folds per cell.) Tj ET
+0 0 0 rg
+BT /Helvetica-Bold 19 Tf 191.9 545 Td (Daily budget 60) Tj ET
+BT /Helvetica-Bold 16 Tf 155.27 528 Td (Ctx) Tj ET
+BT /Helvetica-Bold 16 Tf 220.77 528 Td (FQI) Tj ET
+BT /Helvetica-Bold 16 Tf 273.79 528 Td (Double) Tj ET
+BT /Helvetica-Bold 16 Tf 339.29 528 Td (Neural) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 37.48 502.656 Td (Steel - 6 h) Tj ET
+0.665835 0.764371 0.922885 rg
+135 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 502.656 Td (+15.0) Tj ET
+0.715305 0.799254 0.934301 rg
+200.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 502.656 Td (+12.8) Tj ET
+0.719512 0.80222 0.935272 rg
+266 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 502.656 Td (+12.6) Tj ET
+0.695317 0.78516 0.929689 rg
+331.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 502.656 Td (+13.7) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 29.16 472.969 Td (Steel - 12 h) Tj ET
+0.702451 0.79019 0.931335 rg
+135 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 472.969 Td (+13.4) Tj ET
+0.683054 0.776513 0.926859 rg
+200.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 472.969 Td (+14.2) Tj ET
+0.751404 0.824708 0.942632 rg
+266 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 472.969 Td (+11.2) Tj ET
+0.708822 0.794682 0.932805 rg
+331.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 472.969 Td (+13.1) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 29.16 443.281 Td (Steel - 24 h) Tj ET
+0.762769 0.832722 0.945254 rg
+135 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 443.281 Td (+10.6) Tj ET
+0.727177 0.807625 0.937041 rg
+200.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 443.281 Td (+12.2) Tj ET
+0.811557 0.867124 0.956513 rg
+266 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 282.11 443.281 Td (+8.5) Tj ET
+0.687262 0.77948 0.92783 rg
+331.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 443.281 Td (+14.0) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 29.16 413.594 Td (Steel - 48 h) Tj ET
+0.801584 0.860091 0.954212 rg
+135 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 151.11 413.594 Td (+8.9) Tj ET
+0.843339 0.889534 0.963847 rg
+200.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 216.61 413.594 Td (+7.0) Tj ET
+0.83095 0.880798 0.960988 rg
+266 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 282.11 413.594 Td (+7.6) Tj ET
+0.713937 0.798289 0.933986 rg
+331.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 413.594 Td (+12.8) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 20.84 383.906 Td (Tetouan - 6 h) Tj ET
+0.807097 0.863978 0.955484 rg
+135 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 151.11 383.906 Td (+8.7) Tj ET
+0.778197 0.8436 0.948815 rg
+200.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 383.906 Td (+10.0) Tj ET
+0.748754 0.822839 0.94202 rg
+266 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 383.906 Td (+11.3) Tj ET
+0.992356 0.96997 0.960688 rg
+331.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 383.906 Td (-1.9) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 354.219 Td (Tetouan - 12 h) Tj ET
+0.647525 0.75146 0.91866 rg
+135 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 354.219 Td (+15.8) Tj ET
+0.637159 0.74415 0.916267 rg
+200.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 354.219 Td (+16.3) Tj ET
+0.665169 0.763901 0.922731 rg
+266 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 354.219 Td (+15.0) Tj ET
+0.700033 0.788485 0.930777 rg
+331.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 354.219 Td (+13.5) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 324.531 Td (Tetouan - 24 h) Tj ET
+0.638078 0.744799 0.91648 rg
+135 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 324.531 Td (+16.2) Tj ET
+0.781106 0.845652 0.949486 rg
+200.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 216.61 324.531 Td (+9.8) Tj ET
+0.631405 0.740093 0.91494 rg
+266 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 324.531 Td (+16.5) Tj ET
+0.726387 0.807068 0.936859 rg
+331.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 324.531 Td (+12.3) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 294.844 Td (Tetouan - 48 h) Tj ET
+0.597041 0.715862 0.907009 rg
+135 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 294.844 Td (+18.1) Tj ET
+0.646083 0.750443 0.918327 rg
+200.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 294.844 Td (+15.9) Tj ET
+0.584983 0.70736 0.904227 rg
+266 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 294.844 Td (+18.6) Tj ET
+0.850286 0.894433 0.965451 rg
+331.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 294.844 Td (+6.7) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 20.84 265.156 Td (UCI-ECL - 6 h) Tj ET
+0.924984 0.705296 0.614206 rg
+135 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 265.156 Td (-18.8) Tj ET
+0.926715 0.712095 0.623106 rg
+200.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 265.156 Td (-18.3) Tj ET
+0.926509 0.711284 0.622044 rg
+266 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 265.156 Td (-18.4) Tj ET
+0.945697 0.786667 0.720727 rg
+331.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 265.156 Td (-13.6) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 235.469 Td (UCI-ECL - 12 h) Tj ET
+0.947918 0.795394 0.732152 rg
+135 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 235.469 Td (-13.0) Tj ET
+0.935241 0.745591 0.666955 rg
+200.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 235.469 Td (-16.2) Tj ET
+0.947151 0.792378 0.728204 rg
+266 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 235.469 Td (-13.2) Tj ET
+0.997123 0.988699 0.985206 rg
+331.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 235.469 Td (-0.7) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 205.781 Td (UCI-ECL - 24 h) Tj ET
+0.967903 0.873903 0.834928 rg
+135 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 151.11 205.781 Td (-8.0) Tj ET
+0.931463 0.730748 0.647524 rg
+200.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 205.781 Td (-17.1) Tj ET
+0.943103 0.776477 0.707388 rg
+266 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 205.781 Td (-14.2) Tj ET
+0.989657 0.959368 0.946809 rg
+331.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 205.781 Td (-2.6) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 12.52 176.094 Td (UCI-ECL - 48 h) Tj ET
+0.959445 0.840677 0.791432 rg
+135 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 176.094 Td (-10.1) Tj ET
+0.967667 0.872976 0.833714 rg
+200.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 216.61 176.094 Td (-8.1) Tj ET
+0.973545 0.896068 0.863944 rg
+266 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 282.11 176.094 Td (-6.6) Tj ET
+0.934376 0.742193 0.662507 rg
+331.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 343.45 176.094 Td (-16.4) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 45.8 146.406 Td (OPSD - 6 h) Tj ET
+0.677855 0.772847 0.925659 rg
+135 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 146.406 Td (+14.5) Tj ET
+0.64086 0.74676 0.917122 rg
+200.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 146.406 Td (+16.1) Tj ET
+0.580428 0.704148 0.903176 rg
+266 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 146.406 Td (+18.8) Tj ET
+0.987222 0.949801 0.934284 rg
+331.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 146.406 Td (-3.2) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 37.48 116.719 Td (OPSD - 12 h) Tj ET
+0.60162 0.719091 0.908066 rg
+135 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 116.719 Td (+17.9) Tj ET
+0.597885 0.716458 0.907204 rg
+200.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 116.719 Td (+18.0) Tj ET
+0.776921 0.842701 0.94852 rg
+266 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 116.719 Td (+10.0) Tj ET
+0.98166 0.927949 0.905678 rg
+331.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 116.719 Td (-4.6) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 37.48 87.0312 Td (OPSD - 24 h) Tj ET
+0.488539 0.639354 0.88197 rg
+135 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 87.0312 Td (+23.0) Tj ET
+0.58691 0.708718 0.904671 rg
+200.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 87.0312 Td (+18.5) Tj ET
+0.646561 0.75078 0.918437 rg
+266 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 87.0312 Td (+15.9) Tj ET
+0.99947 0.997916 0.997272 rg
+331.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 87.0312 Td (-0.1) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 37.48 57.3438 Td (OPSD - 48 h) Tj ET
+0.611825 0.726287 0.910421 rg
+135 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 146.95 57.3438 Td (+17.4) Tj ET
+0.721081 0.803326 0.935634 rg
+200.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 212.45 57.3438 Td (+12.5) Tj ET
+0.771459 0.838849 0.94726 rg
+266 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 277.95 57.3438 Td (+10.3) Tj ET
+0.977026 0.909744 0.881847 rg
+331.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 347.61 57.3438 Td (-5.7) Tj ET
+BT /Helvetica-Bold 19 Tf 490.96 545 Td (Daily budget 108) Tj ET
+BT /Helvetica-Bold 16 Tf 459.27 528 Td (Ctx) Tj ET
+BT /Helvetica-Bold 16 Tf 524.77 528 Td (FQI) Tj ET
+BT /Helvetica-Bold 16 Tf 577.79 528 Td (Double) Tj ET
+BT /Helvetica-Bold 16 Tf 643.29 528 Td (Neural) Tj ET
+0.396717 0.574608 0.860781 rg
+439 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 502.656 Td (+27.1) Tj ET
+0.594944 0.714384 0.906526 rg
+504.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 502.656 Td (+18.2) Tj ET
+0.574637 0.700064 0.901839 rg
+570 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 502.656 Td (+19.1) Tj ET
+0.659531 0.759926 0.92143 rg
+635.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 502.656 Td (+15.3) Tj ET
+0.595452 0.714742 0.906643 rg
+439 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 472.969 Td (+18.2) Tj ET
+0.693788 0.784082 0.929336 rg
+504.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 472.969 Td (+13.7) Tj ET
+0.649787 0.753055 0.919182 rg
+570 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 472.969 Td (+15.7) Tj ET
+0.69195 0.782785 0.928912 rg
+635.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 472.969 Td (+13.8) Tj ET
+0.774945 0.841307 0.948064 rg
+439 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 443.281 Td (+10.1) Tj ET
+0.80707 0.86396 0.955478 rg
+504.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 443.281 Td (+8.7) Tj ET
+0.741914 0.818016 0.940442 rg
+570 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 443.281 Td (+11.6) Tj ET
+0.746052 0.820934 0.941397 rg
+635.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 443.281 Td (+11.4) Tj ET
+0.668985 0.766592 0.923612 rg
+439 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 413.594 Td (+14.9) Tj ET
+0.830261 0.880312 0.960829 rg
+504.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 413.594 Td (+7.6) Tj ET
+0.826337 0.877546 0.959924 rg
+570 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 586.11 413.594 Td (+7.8) Tj ET
+0.747393 0.82188 0.941706 rg
+635.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 413.594 Td (+11.3) Tj ET
+0.867948 0.906887 0.969527 rg
+439 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 455.11 383.906 Td (+5.9) Tj ET
+0.871318 0.909262 0.970304 rg
+504.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 383.906 Td (+5.8) Tj ET
+0.889912 0.922374 0.974595 rg
+570 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 586.11 383.906 Td (+4.9) Tj ET
+0.973114 0.894375 0.861728 rg
+635.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 383.906 Td (-6.7) Tj ET
+0.588952 0.710159 0.905143 rg
+439 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 354.219 Td (+18.4) Tj ET
+0.615946 0.729192 0.911372 rg
+504.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 354.219 Td (+17.2) Tj ET
+0.584322 0.706894 0.904074 rg
+570 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 354.219 Td (+18.7) Tj ET
+0.651503 0.754265 0.919578 rg
+635.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 354.219 Td (+15.6) Tj ET
+0.564069 0.692613 0.899401 rg
+439 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 324.531 Td (+19.6) Tj ET
+0.713585 0.798041 0.933904 rg
+504.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 324.531 Td (+12.9) Tj ET
+0.666263 0.764673 0.922984 rg
+570 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 324.531 Td (+15.0) Tj ET
+0.734774 0.812982 0.938794 rg
+635.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 324.531 Td (+11.9) Tj ET
+0.530293 0.668797 0.891606 rg
+439 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 294.844 Td (+21.1) Tj ET
+0.582343 0.705498 0.903618 rg
+504.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 294.844 Td (+18.7) Tj ET
+0.587985 0.709476 0.90492 rg
+570 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 294.844 Td (+18.5) Tj ET
+0.878746 0.9145 0.972018 rg
+635.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 294.844 Td (+5.4) Tj ET
+0.919546 0.683932 0.586239 rg
+439 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 265.156 Td (-20.1) Tj ET
+0.928859 0.720519 0.634134 rg
+504.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 265.156 Td (-17.8) Tj ET
+0.943661 0.778666 0.710254 rg
+570 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 265.156 Td (-14.1) Tj ET
+0.968339 0.875618 0.837172 rg
+635.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 265.156 Td (-7.9) Tj ET
+0.924443 0.703168 0.61142 rg
+439 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 235.469 Td (-18.9) Tj ET
+0.932921 0.736476 0.655023 rg
+504.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 235.469 Td (-16.8) Tj ET
+0.919728 0.684647 0.587174 rg
+570 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 235.469 Td (-20.1) Tj ET
+0.909549 0.644655 0.534822 rg
+635.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 235.469 Td (-22.6) Tj ET
+0.92489 0.704926 0.613722 rg
+439 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 205.781 Td (-18.8) Tj ET
+0.952985 0.815297 0.758207 rg
+504.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 205.781 Td (-11.8) Tj ET
+0.952819 0.814647 0.757356 rg
+570 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 205.781 Td (-11.8) Tj ET
+0.975372 0.903249 0.873344 rg
+635.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 205.781 Td (-6.2) Tj ET
+0.941562 0.770422 0.699462 rg
+439 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 176.094 Td (-14.6) Tj ET
+0.968802 0.877436 0.839553 rg
+504.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 176.094 Td (-7.8) Tj ET
+0.967822 0.873587 0.834514 rg
+570 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 586.11 176.094 Td (-8.0) Tj ET
+0.953271 0.816421 0.759679 rg
+635.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 176.094 Td (-11.7) Tj ET
+0.32281 0.522494 0.843725 rg
+439 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 146.406 Td (+30.4) Tj ET
+0.321802 0.521783 0.843493 rg
+504.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 146.406 Td (+30.4) Tj ET
+0.355017 0.545204 0.851158 rg
+570 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 146.406 Td (+28.9) Tj ET
+0.604398 0.72105 0.908707 rg
+635.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 647.45 146.406 Td (+17.8) Tj ET
+0.570668 0.697266 0.900923 rg
+439 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 116.719 Td (+19.3) Tj ET
+0.626934 0.73694 0.913908 rg
+504.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 516.45 116.719 Td (+16.7) Tj ET
+0.661144 0.761063 0.921802 rg
+570 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 116.719 Td (+15.2) Tj ET
+0.898426 0.928378 0.97656 rg
+635.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 116.719 Td (+4.6) Tj ET
+0.657953 0.758813 0.921066 rg
+439 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 87.0312 Td (+15.3) Tj ET
+0.83927 0.886665 0.962908 rg
+504.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 87.0312 Td (+7.2) Tj ET
+0.723661 0.805145 0.936229 rg
+570 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 581.95 87.0312 Td (+12.4) Tj ET
+0.977231 0.983945 0.994746 rg
+635.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 87.0312 Td (+1.0) Tj ET
+0.657707 0.758639 0.921009 rg
+439 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 450.95 57.3438 Td (+15.4) Tj ET
+0.827291 0.878218 0.960144 rg
+504.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 520.61 57.3438 Td (+7.7) Tj ET
+0.822157 0.874598 0.958959 rg
+570 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 586.11 57.3438 Td (+8.0) Tj ET
+0.966043 0.866597 0.825363 rg
+635.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 651.61 57.3438 Td (-8.5) Tj ET
+BT /Helvetica-Bold 19 Tf 794.96 545 Td (Daily budget 180) Tj ET
+BT /Helvetica-Bold 16 Tf 763.27 528 Td (Ctx) Tj ET
+BT /Helvetica-Bold 16 Tf 828.77 528 Td (FQI) Tj ET
+BT /Helvetica-Bold 16 Tf 881.79 528 Td (Double) Tj ET
+BT /Helvetica-Bold 16 Tf 947.29 528 Td (Neural) Tj ET
+0.37083 0.556354 0.854807 rg
+743 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 502.656 Td (+28.2) Tj ET
+0.525532 0.66544 0.890507 rg
+808.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 502.656 Td (+21.3) Tj ET
+0.537601 0.673949 0.893292 rg
+874 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 502.656 Td (+20.7) Tj ET
+0.534765 0.67195 0.892638 rg
+939.5 490.312 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 502.656 Td (+20.9) Tj ET
+0.6535 0.755673 0.920039 rg
+743 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 472.969 Td (+15.5) Tj ET
+0.686952 0.779261 0.927758 rg
+808.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 472.969 Td (+14.0) Tj ET
+0.790315 0.852145 0.951611 rg
+874 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 890.11 472.969 Td (+9.4) Tj ET
+0.628988 0.738389 0.914382 rg
+939.5 460.625 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 472.969 Td (+16.6) Tj ET
+0.706081 0.792749 0.932173 rg
+743 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 443.281 Td (+13.2) Tj ET
+0.773359 0.840189 0.947698 rg
+808.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 443.281 Td (+10.2) Tj ET
+0.771811 0.839098 0.947341 rg
+874 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 443.281 Td (+10.2) Tj ET
+0.63318 0.741345 0.915349 rg
+939.5 430.938 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 443.281 Td (+16.5) Tj ET
+0.813264 0.868327 0.956907 rg
+743 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 759.11 413.594 Td (+8.4) Tj ET
+0.805866 0.863111 0.9552 rg
+808.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 824.61 413.594 Td (+8.7) Tj ET
+0.807683 0.864392 0.955619 rg
+874 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 890.11 413.594 Td (+8.6) Tj ET
+0.672331 0.768951 0.924384 rg
+939.5 401.25 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 413.594 Td (+14.7) Tj ET
+0.91261 0.938379 0.979833 rg
+743 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 759.11 383.906 Td (+3.9) Tj ET
+0.895234 0.926127 0.975823 rg
+808.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 824.61 383.906 Td (+4.7) Tj ET
+0.821759 0.874318 0.958868 rg
+874 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 890.11 383.906 Td (+8.0) Tj ET
+0.945018 0.783998 0.717233 rg
+939.5 371.562 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 383.906 Td (-13.7) Tj ET
+0.542865 0.677661 0.894507 rg
+743 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 354.219 Td (+20.5) Tj ET
+0.516036 0.658743 0.888316 rg
+808.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 354.219 Td (+21.7) Tj ET
+0.561499 0.690801 0.898808 rg
+874 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 354.219 Td (+19.7) Tj ET
+0.670147 0.767411 0.92388 rg
+939.5 341.875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 354.219 Td (+14.8) Tj ET
+0.654267 0.756214 0.920215 rg
+743 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 324.531 Td (+15.5) Tj ET
+0.616348 0.729476 0.911465 rg
+808.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 324.531 Td (+17.2) Tj ET
+0.583377 0.706227 0.903856 rg
+874 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 324.531 Td (+18.7) Tj ET
+0.74182 0.81795 0.94042 rg
+939.5 312.188 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 324.531 Td (+11.6) Tj ET
+0.514016 0.657319 0.88785 rg
+743 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 294.844 Td (+21.8) Tj ET
+0.643489 0.748614 0.917728 rg
+808.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 294.844 Td (+16.0) Tj ET
+0.620393 0.732329 0.912398 rg
+874 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 294.844 Td (+17.0) Tj ET
+0.726102 0.806867 0.936793 rg
+939.5 282.5 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 294.844 Td (+12.3) Tj ET
+0.947625 0.79424 0.730642 rg
+743 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 265.156 Td (-13.1) Tj ET
+0.916341 0.671339 0.569753 rg
+808.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 265.156 Td (-20.9) Tj ET
+0.930158 0.725621 0.640813 rg
+874 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 265.156 Td (-17.5) Tj ET
+0.983251 0.934201 0.913864 rg
+939.5 252.812 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 955.61 265.156 Td (-4.2) Tj ET
+0.932832 0.736127 0.654567 rg
+743 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 235.469 Td (-16.8) Tj ET
+0.937522 0.754552 0.678686 rg
+808.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 235.469 Td (-15.6) Tj ET
+0.959864 0.842321 0.793584 rg
+874 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 235.469 Td (-10.0) Tj ET
+0.943925 0.779707 0.711616 rg
+939.5 223.125 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 235.469 Td (-14.0) Tj ET
+0.962717 0.85353 0.808258 rg
+743 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 759.11 205.781 Td (-9.3) Tj ET
+0.946449 0.789623 0.724597 rg
+808.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 205.781 Td (-13.4) Tj ET
+0.952572 0.813674 0.756083 rg
+874 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 205.781 Td (-11.9) Tj ET
+0.992466 0.970401 0.961253 rg
+939.5 193.438 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 955.61 205.781 Td (-1.9) Tj ET
+0.93776 0.755487 0.67991 rg
+743 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 176.094 Td (-15.6) Tj ET
+0.979634 0.919992 0.895262 rg
+808.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 824.61 176.094 Td (-5.1) Tj ET
+0.957748 0.834011 0.782705 rg
+874 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 176.094 Td (-10.6) Tj ET
+0.952734 0.814311 0.756916 rg
+939.5 163.75 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 176.094 Td (-11.8) Tj ET
+0.244817 0.467499 0.825727 rg
+743 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 146.406 Td (+33.9) Tj ET
+0.22 0.45 0.82 rg
+808.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 146.406 Td (+35.5) Tj ET
+0.228342 0.455882 0.821925 rg
+874 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 146.406 Td (+34.6) Tj ET
+0.482435 0.635051 0.880562 rg
+939.5 134.062 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 146.406 Td (+23.2) Tj ET
+0.4068 0.581718 0.863108 rg
+743 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 116.719 Td (+26.6) Tj ET
+0.508272 0.653269 0.886524 rg
+808.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 116.719 Td (+22.1) Tj ET
+0.483842 0.636042 0.880887 rg
+874 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 116.719 Td (+23.2) Tj ET
+0.744156 0.819597 0.940959 rg
+939.5 104.375 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 951.45 116.719 Td (+11.5) Tj ET
+0.537841 0.674119 0.893348 rg
+743 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 87.0312 Td (+20.7) Tj ET
+0.743701 0.819276 0.940854 rg
+808.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 87.0312 Td (+11.5) Tj ET
+0.687251 0.779472 0.927827 rg
+874 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 87.0312 Td (+14.0) Tj ET
+0.997663 0.990821 0.987983 rg
+939.5 74.6875 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 955.61 87.0312 Td (-0.6) Tj ET
+0.631677 0.740285 0.915002 rg
+743 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 754.95 57.3438 Td (+16.5) Tj ET
+0.749141 0.823112 0.942109 rg
+808.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 820.45 57.3438 Td (+11.3) Tj ET
+0.703708 0.791076 0.931625 rg
+874 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 885.95 57.3438 Td (+13.3) Tj ET
+0.859455 0.900898 0.967567 rg
+939.5 45 64.5 28.6875 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 955.61 57.3438 Td (+6.3) Tj ET
+BT /Helvetica 16 Tf 42 18 Td (Ctx = contextual; Double = Double FQI; Neural = neural FQI. Blue = improvement; red = degradation.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000277 00000 n 
+0000000347 00000 n 
+0000000422 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+26945
+%%EOF

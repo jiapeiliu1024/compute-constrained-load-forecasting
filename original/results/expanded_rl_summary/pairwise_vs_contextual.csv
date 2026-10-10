@@ -1,0 +1,4 @@
+candidate,paired_units,mean_gain_difference_pct_points,median_gain_difference_pct_points,candidate_better_units,contextual_better_units,ties
+fqi,240,-1.8543204273547005,-2.171237990629666,86,154,0
+double_fqi,240,-1.4488107110663802,-1.3346540026192493,96,144,0
+neural_fqi,240,-5.391627384061042,-5.715331323483962,76,164,0

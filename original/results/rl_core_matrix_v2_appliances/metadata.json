@@ -1,0 +1,30 @@
+{
+  "datasets": [
+    "appliances"
+  ],
+  "horizons": [
+    6,
+    12,
+    24,
+    48
+  ],
+  "budgets": [
+    60,
+    108,
+    180
+  ],
+  "folds": 2,
+  "algorithms": [
+    "contextual",
+    "fqi",
+    "double_fqi",
+    "neural_fqi"
+  ],
+  "neural_hidden_layers": [
+    16,
+    8
+  ],
+  "neural_max_epochs_per_backup": 40,
+  "bellman_backups": 6,
+  "selection": "all algorithm variants fixed before test; no test selection"
+}

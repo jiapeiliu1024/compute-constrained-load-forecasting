@@ -1,0 +1,14 @@
+{
+  "source": "D:\\\u575a\u679c\u4e91\\\u6211\u7684\u575a\u679c\u4e91\\\u8bba\u6587\u8bba\u6587\u8bba\u6587\\data\\raw\\uci_electricity\\LD2011_2014.txt",
+  "output": "D:\\\u575a\u679c\u4e91\\\u6211\u7684\u575a\u679c\u4e91\\\u8bba\u6587\u8bba\u6587\u8bba\u6587\\data\\processed\\uci_ecl_hourly.csv",
+  "aggregation": "sum across 370 clients at 15 min, then arithmetic mean within each clock hour",
+  "unit": "kW",
+  "start": "2012-01-01 00:00:00",
+  "end": "2015-01-01 00:00:00",
+  "rows": 26305,
+  "missing": 0,
+  "mean_kw": 219809.3992545029,
+  "std_kw": 81632.69662833295,
+  "min_kw": 33101.516133811136,
+  "max_kw": 447579.3288471119
+}

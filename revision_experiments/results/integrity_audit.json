@@ -1,0 +1,10 @@
+{
+  "policy_evaluations": 120,
+  "primary_evaluations": 80,
+  "cost_sensitivity_evaluations": 40,
+  "original_replication_comparisons": 40,
+  "max_replication_mae_difference": 2.2737367544323206e-13,
+  "budget_violations": 0,
+  "checks": "per-origin errors, static errors, action costs, cumulative reserve, 24-hour days, shares, oracle ordering, matrix completeness",
+  "mlp_convergence_warnings": 5
+}

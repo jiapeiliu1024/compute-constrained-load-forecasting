@@ -1,0 +1,7 @@
+{
+  "seconds": 0.9360362000297755,
+  "epochs": 150,
+  "warnings": [
+    "Stochastic Optimizer: Maximum iterations (150) reached and the optimization hasn't converged yet."
+  ]
+}

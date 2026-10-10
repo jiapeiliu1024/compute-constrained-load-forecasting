@@ -1,0 +1,12 @@
+[
+  {
+    "algorithm": "contextual",
+    "mae_delta": -2.2737367544323206e-13,
+    "static_delta": 0.0
+  },
+  {
+    "algorithm": "fqi",
+    "mae_delta": 0.0,
+    "static_delta": 0.0
+  }
+]

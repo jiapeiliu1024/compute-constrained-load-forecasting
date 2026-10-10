@@ -1,0 +1,13 @@
+{
+  "dataset": "UCI Power Consumption of Tetouan City",
+  "doi": "10.24432/C5B034",
+  "license": "CC BY 4.0",
+  "archive_sha256": "3C4BF684161180937043A9FB65701A83D44B740B0D42F0492B6E7AEC57DDBBFE",
+  "source_rows": 52416,
+  "hourly_rows": 8737,
+  "start": "2017-01-01 00:00:00",
+  "end": "2017-12-31 00:00:00",
+  "missing": 0,
+  "aggregation": "sum three zones at 10 min, then arithmetic mean within each clock hour",
+  "load_unit": "reported dataset power-consumption unit; no conversion applied"
+}

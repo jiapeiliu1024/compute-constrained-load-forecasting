@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\revision_experiments\\PROTOCOL.md",
+        "Hash":  "1EF0F37C61F9FE4D861177F7658F60F62EC4870F58121ADEA2C74524BAB63F03"
+    },
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\revision_experiments\\run_revision.py",
+        "Hash":  "2CAE14CDF63E6A728C23764224D7577755944882514789672058F2BE947B3B2E"
+    },
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\data\\processed\\uci_ecl_hourly.csv",
+        "Hash":  "CCE3C7ADE13F73912F3CEE671B490DB22ECCB45E2890181C4930FFD1E26414E4"
+    },
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\data\\processed\\uci_tetouan_hourly.csv",
+        "Hash":  "F6B5999B9A1E95DDD3CD0BDEE0E5462B563A3FD19E932F3ED38F469BA099814F"
+    },
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\data\\processed\\opsd_aggregate_hourly.csv",
+        "Hash":  "665F4C204D4B3D101D2D9C073B82AF0204C1DD78189B3AD3654AC5E789092D70"
+    },
+    {
+        "Path":  "D:\\坚果云\\我的坚果云\\论文论文论文\\data\\raw\\uci_steel\\data.csv",
+        "Hash":  "9B1CEE6F9CB9CD9DF2B95814CA90A9A2FF15B7F5F1FBA0FAE3C643E82072EACC"
+    }
+]

@@ -1,0 +1,20 @@
+# Local Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Downloaded third-party datasets and locally prepared copies
+original/data/raw/
+original/data/processed/
+data/raw/
+data/processed/
+
+# Temporary and regenerated local runs
+*.log
+*.tmp
+original/results/smoke_core/
+original/results/smoke_gate/

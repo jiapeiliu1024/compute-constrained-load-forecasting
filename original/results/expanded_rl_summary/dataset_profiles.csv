@@ -1,0 +1,6 @@
+dataset,hourly_rows,start,end,target,columns,missing_target
+steel,8760,2018-01-01 00:00:00,2018-12-31 23:00:00,Usage_kWh,7,0
+tetouan,8737,2017-01-01 00:00:00,2017-12-31 00:00:00,aggregate_load,6,0
+uci_ecl,26305,2012-01-01 00:00:00,2015-01-01 00:00:00,aggregate_load_kw,1,0
+opsd,35064,2016-01-01 00:00:00+00:00,2019-12-31 23:00:00+00:00,aggregate_load,2,0
+appliances,3290,2016-01-11 17:00:00,2016-05-27 18:00:00,Appliances,26,0

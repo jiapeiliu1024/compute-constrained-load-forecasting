@@ -1,0 +1,99 @@
+{
+  "main": [
+    {
+      "dataset": "steel",
+      "role": "main",
+      "rows": 240,
+      "units": 60,
+      "budget_violations": 0,
+      "max_share_error": 3.3306690738754696e-16,
+      "max_oracle_order_error": -4.071133276677715
+    },
+    {
+      "dataset": "tetouan",
+      "role": "main",
+      "rows": 240,
+      "units": 60,
+      "budget_violations": 0,
+      "max_share_error": 3.3306690738754696e-16,
+      "max_oracle_order_error": -331.57201960557495
+    },
+    {
+      "dataset": "uci_ecl",
+      "role": "main",
+      "rows": 240,
+      "units": 60,
+      "budget_violations": 0,
+      "max_share_error": 3.3306690738754696e-16,
+      "max_oracle_order_error": -2628.380822878034
+    },
+    {
+      "dataset": "opsd",
+      "role": "main",
+      "rows": 240,
+      "units": 60,
+      "budget_violations": 0,
+      "max_share_error": 3.3306690738754696e-16,
+      "max_oracle_order_error": -332.56788443049214
+    }
+  ],
+  "boundary": {
+    "dataset": "appliances",
+    "role": "boundary",
+    "rows": 96,
+    "units": 24,
+    "budget_violations": 0,
+    "max_share_error": 2.220446049250313e-16,
+    "max_oracle_order_error": -15.564465215984976
+  },
+  "depth": {
+    "rows": 280,
+    "variants": 28
+  },
+  "hyperparameter_grid": {
+    "rows": 80,
+    "cells": 20,
+    "paired_units": 4
+  },
+  "sequential": {
+    "rows": 30,
+    "paired_units": 6,
+    "switching_penalty_rows": {
+      "0.01": 12,
+      "0.05": 12,
+      "0.10": 12
+    }
+  },
+  "gate_main": [
+    {
+      "dataset": "steel",
+      "rows": 60,
+      "activation_rate": 0.75,
+      "budget_violations": 0
+    },
+    {
+      "dataset": "tetouan",
+      "rows": 60,
+      "activation_rate": 0.55,
+      "budget_violations": 0
+    },
+    {
+      "dataset": "uci_ecl",
+      "rows": 60,
+      "activation_rate": 0.016666666666666666,
+      "budget_violations": 0
+    },
+    {
+      "dataset": "opsd",
+      "rows": 60,
+      "activation_rate": 0.75,
+      "budget_violations": 0
+    }
+  ],
+  "gate_boundary": {
+    "dataset": "appliances",
+    "rows": 24,
+    "activation_rate": 0.4583333333333333,
+    "budget_violations": 0
+  }
+}

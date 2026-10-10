@@ -1,0 +1,161 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 650] /Resources << /Font << /Helvetica 4 0 R /Helvetica-Bold 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4128 >>
+stream
+BT /Helvetica-Bold 25 Tf 42 612 Td (Deployment-Gate Coverage-Risk Audit) Tj ET
+0.28 0.28 0.28 rg
+BT /Helvetica 15 Tf 42 595 Td (Thresholds are swept retrospectively over 240 formal units; the pre-specified operating point is upper confidence bound < 0.) Tj ET
+0 0 0 rg
+110 95 m 930 95 l S
+110 95 m 110 535 l S
+0.88 0.88 0.88 RG
+110 95 m 930 95 l S
+110 95 m 110 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 102.2 79 Td (0%) Tj ET
+BT /Helvetica 15 Tf 87.4 92 Td (0%) Tj ET
+0.88 0.88 0.88 RG
+110 183 m 930 183 l S
+274 95 m 274 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 262.3 79 Td (20%) Tj ET
+BT /Helvetica 15 Tf 79.6 180 Td (20%) Tj ET
+0.88 0.88 0.88 RG
+110 271 m 930 271 l S
+438 95 m 438 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 426.3 79 Td (40%) Tj ET
+BT /Helvetica 15 Tf 79.6 268 Td (40%) Tj ET
+0.88 0.88 0.88 RG
+110 359 m 930 359 l S
+602 95 m 602 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 590.3 79 Td (60%) Tj ET
+BT /Helvetica 15 Tf 79.6 356 Td (60%) Tj ET
+0.88 0.88 0.88 RG
+110 447 m 930 447 l S
+766 95 m 766 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 754.3 79 Td (80%) Tj ET
+BT /Helvetica 15 Tf 79.6 444 Td (80%) Tj ET
+0.88 0.88 0.88 RG
+110 535 m 930 535 l S
+930 95 m 930 535 l S
+0.2 0.2 0.2 rg
+BT /Helvetica 15 Tf 914.4 79 Td (100%) Tj ET
+BT /Helvetica 15 Tf 71.8 532 Td (100%) Tj ET
+0.75 0.25 0.14 RG
+2.2 w
+110 95 m 137.333 95 l S
+137.333 95 m 164.667 95 l S
+164.667 95 m 192 95 l S
+192 95 m 219.333 95 l S
+219.333 95 m 246.667 106 l S
+246.667 106 m 274 104.167 l S
+274 104.167 m 301.333 110.714 l S
+301.333 110.714 m 328.667 108.75 l S
+328.667 108.75 m 356 119.444 l S
+356 119.444 m 383.333 117 l S
+383.333 117 m 410.667 115 l S
+410.667 115 m 438 113.333 l S
+438 113.333 m 465.333 111.923 l S
+465.333 111.923 m 492.667 110.714 l S
+492.667 110.714 m 520 117 l S
+520 117 m 533.667 116.29 l S
+533.667 116.29 m 547.333 119.062 l S
+547.333 119.062 m 574.667 130.588 l S
+574.667 130.588 m 602 134.722 l S
+602 134.722 m 629.333 147.105 l S
+629.333 147.105 m 656.667 152.75 l S
+656.667 152.75 m 684 150 l S
+684 150 m 711.333 155 l S
+711.333 155 m 738.667 152.391 l S
+738.667 152.391 m 766 156.875 l S
+766 156.875 m 793.333 165.4 l S
+793.333 165.4 m 820.667 175.385 l S
+820.667 175.385 m 848 182.593 l S
+848 182.593 m 875.333 187.321 l S
+875.333 187.321 m 902.667 195.517 l S
+902.667 195.517 m 926.583 205.46 l S
+0.12 0.39 0.65 RG
+2.2 w
+110 535 m 137.333 515.335 l S
+137.333 515.335 m 164.667 495.67 l S
+164.667 495.67 m 192 476.006 l S
+192 476.006 m 219.333 456.341 l S
+219.333 456.341 m 246.667 439.134 l S
+246.667 439.134 m 274 419.469 l S
+274 419.469 m 301.333 402.263 l S
+301.333 402.263 m 328.667 382.598 l S
+328.667 382.598 m 356 367.849 l S
+356 367.849 m 383.333 348.184 l S
+383.333 348.184 m 410.667 328.52 l S
+410.667 328.52 m 438 308.855 l S
+438 308.855 m 465.333 289.19 l S
+465.333 289.19 m 492.667 269.525 l S
+492.667 269.525 m 520 254.777 l S
+520 254.777 m 533.667 244.944 l S
+533.667 244.944 m 547.333 237.57 l S
+547.333 237.57 m 574.667 227.737 l S
+574.667 227.737 m 602 212.989 l S
+602 212.989 m 629.333 205.615 l S
+629.333 205.615 m 656.667 193.324 l S
+656.667 193.324 m 684 173.659 l S
+684 173.659 m 711.333 161.369 l S
+711.333 161.369 m 738.667 141.704 l S
+738.667 141.704 m 766 129.413 l S
+766 129.413 m 793.333 122.039 l S
+793.333 122.039 m 820.667 117.123 l S
+820.667 117.123 m 848 109.749 l S
+848 109.749 m 875.333 99.9162 l S
+875.333 99.9162 m 902.667 95 l S
+902.667 95 m 926.583 95 l S
+0 0 0 rg
+538.667 116.29 m 538.667 119.052 536.428 121.29 533.667 121.29 c 530.905 121.29 528.667 119.052 528.667 116.29 c 528.667 113.529 530.905 111.29 533.667 111.29 c 536.428 111.29 538.667 113.529 538.667 116.29 c f
+BT /Helvetica-Bold 15 Tf 541.667 121.29 Td (pre-specified threshold 0) Tj ET
+BT /Helvetica 16 Tf 341.12 58 Td (Gate coverage \(activated folds / all folds\)) Tj ET
+q
+1 0 0 1 42 315 cm
+6.12323e-17 1 -1 6.12323e-17 0 0 cm
+BT /Helvetica 16 Tf -104 0 Td (Rate among relevant folds) Tj ET
+Q
+0.75 0.25 0.14 RG
+650 26 m 675 26 l S
+0 0 0 rg
+BT /Helvetica 16 Tf 681 22 Td (harmful activation rate) Tj ET
+0.12 0.39 0.65 RG
+850 26 m 875 26 l S
+0 0 0 rg
+BT /Helvetica 16 Tf 881 22 Td (missed-gain rate) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000277 00000 n 
+0000000347 00000 n 
+0000000422 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4602
+%%EOF

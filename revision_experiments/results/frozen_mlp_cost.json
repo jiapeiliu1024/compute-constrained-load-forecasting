@@ -1,0 +1,47 @@
+{
+  "credit": 2,
+  "profiles": {
+    "mlp": {
+      "sample_origins": 336,
+      "repetitions": 21,
+      "median_ms_per_origin": 0.0020916666666666666,
+      "q25_ms_per_origin": 0.0019973214285714286,
+      "q75_ms_per_origin": 0.0023002976190476193,
+      "min_ms_per_origin": 0.0018318452380952383,
+      "max_ms_per_origin": 0.0033755952380952383
+    },
+    "hgb": {
+      "sample_origins": 336,
+      "repetitions": 21,
+      "median_ms_per_origin": 0.020701785714285714,
+      "q25_ms_per_origin": 0.020041964285714284,
+      "q75_ms_per_origin": 0.021350595238095238,
+      "min_ms_per_origin": 0.01861011904761905,
+      "max_ms_per_origin": 0.023410119047619048
+    }
+  },
+  "python": "3.12.13 (main, Jun 23 2026, 15:23:43) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.5.1",
+  "pandas": "3.0.1",
+  "sklearn": "1.7.2",
+  "single_row": {
+    "mlp": {
+      "sample_origins": 1,
+      "repetitions": 21,
+      "median_ms_per_origin": 0.7039,
+      "q25_ms_per_origin": 0.6361,
+      "q75_ms_per_origin": 0.7591,
+      "min_ms_per_origin": 0.5759,
+      "max_ms_per_origin": 0.8827
+    },
+    "hgb": {
+      "sample_origins": 1,
+      "repetitions": 21,
+      "median_ms_per_origin": 1.5001,
+      "q25_ms_per_origin": 1.4054,
+      "q75_ms_per_origin": 1.6102,
+      "min_ms_per_origin": 1.3291,
+      "max_ms_per_origin": 1.8564
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "datasets": [
+    "uci_ecl"
+  ],
+  "horizons": [
+    6,
+    12,
+    24,
+    48
+  ],
+  "budgets": [
+    60,
+    108,
+    180
+  ],
+  "folds": 5,
+  "algorithms": [
+    "contextual",
+    "fqi",
+    "double_fqi",
+    "neural_fqi"
+  ],
+  "selection": "all algorithm variants fixed before test; no test selection"
+}

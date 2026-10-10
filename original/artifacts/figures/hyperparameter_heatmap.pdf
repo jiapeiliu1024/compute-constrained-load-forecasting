@@ -1,0 +1,135 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 650] /Resources << /Font << /Helvetica 4 0 R /Helvetica-Bold 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3214 >>
+stream
+BT /Helvetica-Bold 25 Tf 42 612 Td (Bellman Hyperparameter Surface) Tj ET
+0.28 0.28 0.28 rg
+BT /Helvetica 15 Tf 42 595 Td (Mean gain over pre-specified Steel and Tetouan folds at 12 h and budget 108; no cell is selected on test.) Tj ET
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 301.72 503 Td (1 backup) Tj ET
+BT /Helvetica-Bold 16 Tf 447.56 503 Td (3 backups) Tj ET
+BT /Helvetica-Bold 16 Tf 597.56 503 Td (6 backups) Tj ET
+BT /Helvetica-Bold 16 Tf 743.4 503 Td (12 backups) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 179.12 456.5 Td (gamma = 0) Tj ET
+0.664359 0.76333 0.922544 rg
+260 423 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 310.04 456.5 Td (+12.91) Tj ET
+0.664359 0.76333 0.922544 rg
+410 423 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 460.04 456.5 Td (+12.91) Tj ET
+0.664359 0.76333 0.922544 rg
+560 423 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 610.04 456.5 Td (+12.91) Tj ET
+0.664359 0.76333 0.922544 rg
+710 423 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 760.04 456.5 Td (+12.91) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 162.48 384.5 Td (gamma = 0.3) Tj ET
+0.664359 0.76333 0.922544 rg
+260 351 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 310.04 384.5 Td (+12.91) Tj ET
+0.59213 0.7124 0.905876 rg
+410 351 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 460.04 384.5 Td (+15.69) Tj ET
+0.63863 0.745188 0.916607 rg
+560 351 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 610.04 384.5 Td (+13.90) Tj ET
+0.644022 0.74899 0.917851 rg
+710 351 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 760.04 384.5 Td (+13.69) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 162.48 312.5 Td (gamma = 0.6) Tj ET
+0.664359 0.76333 0.922544 rg
+260 279 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 310.04 312.5 Td (+12.91) Tj ET
+0.664937 0.763738 0.922678 rg
+410 279 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 460.04 312.5 Td (+12.89) Tj ET
+0.677668 0.772715 0.925616 rg
+560 279 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 610.04 312.5 Td (+12.40) Tj ET
+0.644891 0.749603 0.918052 rg
+710 279 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 760.04 312.5 Td (+13.66) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 162.48 240.5 Td (gamma = 0.9) Tj ET
+0.664359 0.76333 0.922544 rg
+260 207 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 310.04 240.5 Td (+12.91) Tj ET
+0.694518 0.784596 0.929504 rg
+410 207 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 460.04 240.5 Td (+11.75) Tj ET
+0.641331 0.747092 0.91723 rg
+560 207 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 610.04 240.5 Td (+13.79) Tj ET
+0.718139 0.801252 0.934955 rg
+710 207 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 760.04 240.5 Td (+10.84) Tj ET
+0 0 0 rg
+BT /Helvetica 16 Tf 179.12 168.5 Td (gamma = 1) Tj ET
+0.664359 0.76333 0.922544 rg
+260 135 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 310.04 168.5 Td (+12.91) Tj ET
+0.707399 0.793679 0.932477 rg
+410 135 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 460.04 168.5 Td (+11.25) Tj ET
+0.677161 0.772357 0.925499 rg
+560 135 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 610.04 168.5 Td (+12.42) Tj ET
+0.886189 0.919749 0.973736 rg
+710 135 149 71 re f
+0 0 0 rg
+BT /Helvetica-Bold 16 Tf 764.2 168.5 Td (+4.38) Tj ET
+BT /Helvetica 15 Tf 260 105 Td (For gamma = 0, additional backup labels repeat the identical contextual objective by construction.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000277 00000 n 
+0000000347 00000 n 
+0000000422 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3688
+%%EOF

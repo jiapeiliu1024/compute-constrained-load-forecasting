@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Reproducibility code for Compute-Constrained Adaptive Electricity Load Forecasting via Offline Policy Learning"
+type: software
+version: "7.1"
+date-released: 2026-09-02
+authors:
+  - family-names: Liu
+    given-names: Jiapei
+  - family-names: Zhao
+    given-names: Zhigang
+  - family-names: Li
+    given-names: Xu
+  - family-names: Zhu
+    given-names: Zhaoyuan
+

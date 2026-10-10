@@ -1,0 +1,7 @@
+# Preserve the archived byte streams so SHA-256 manifests remain valid after cloning.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
