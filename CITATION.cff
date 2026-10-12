@@ -3,7 +3,7 @@ message: "If you use this software or artifacts, please cite the associated manu
 title: "Code and Experimental Artifacts for Compute-Constrained Adaptive Electricity Load Forecasting via Offline Policy Learning"
 type: software
 license: MIT
-doi: 10.5281/zenodo.23231947
+url: "https://github.com/jiapeiliu1024/compute-constrained-load-forecasting"
 version: "1.0.0"
 authors:
   - family-names: Liu
