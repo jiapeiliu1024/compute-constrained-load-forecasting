@@ -37,4 +37,4 @@ The archived non-RL audit covers Steel, Tetouan, and UCI–ECL (five folds each)
 
 Software source code (`.py` files in `original/code/` and `revision_experiments/`, plus `.ps1` launchers under `original/` and `revision_experiments/`) is licensed under MIT; see `LICENSE-MIT.txt`. Documentation, profiles, frozen result tables, and derived experimental artifacts are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSES.md` for scope and third-party data notices. Raw source datasets are not included.
 
-Cite the manuscript and software using `CITATION.cff`. The companion Zenodo version has reserved DOI `10.5281/zenodo.23231947`; the DOI becomes publicly resolvable when that draft is published.
+Cite the manuscript and software using `CITATION.cff`. The version 1.0.0 code and derived artifacts are permanently archived at https://doi.org/10.5281/zenodo.23231947.
